@@ -1,0 +1,13 @@
+Paragraph Analysis of text file 2
+=================================
+
+Approximate word count:  287 
+
+Approximate sentence count:  12 
+
+Approximate letter count:  1779 
+
+Average letter count:  6 
+
+Average sentence length (in words):  23 
+
